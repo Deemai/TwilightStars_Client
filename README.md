@@ -1,7 +1,7 @@
 # TwilightStars_Client
 暮光星辰游戏端
 
-使用开源的HMCL启动器构建的Minecraft-1.16.5 Je游戏端整合包
+使用开源的HMCL启动器构建Minecraft-1.16.5 Je游戏端整合包
   - 内置Fabric加载项
   - 内置Naitu Server更新源
   - 内置Naitu Skin Yggdrasil API
