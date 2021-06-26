@@ -19,7 +19,9 @@ TwilightStars_Client
   - 高清修复
 
 > *此整合包使用开源软件构建，软件最终解释权归HMCL所有。*
+
 > *整合包内置一切与TwilightStars、Naitu相关内容所有权归Deemai所有。*
+
 > *仅供个人使用，请勿外传、转载、倒卖、编译。*
 
 # 联系我们
