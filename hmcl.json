@@ -1,0 +1,91 @@
+{
+  "last": "Default",
+  "backgroundType": "DEFAULT",
+  "commonDirType": "DEFAULT",
+  "commonpath": "",
+  "hasProxy": false,
+  "hasProxyAuth": false,
+  "proxyType": "HTTP",
+  "proxyPort": 0,
+  "width": 834.0,
+  "height": 514.0,
+  "theme": "#8bc34a",
+  "localization": "def",
+  "downloadType": "bmclapi",
+  "configurations": {
+    "Default": {
+      "global": {
+        "usesGlobal": false,
+        "javaArgs": "",
+        "minecraftArgs": "",
+        "maxMemory": "",
+        "permSize": "",
+        "width": 854,
+        "height": 480,
+        "javaDir": "",
+        "precalledCommand": "",
+        "serverIp": "",
+        "java": "",
+        "wrapper": "",
+        "fullscreen": false,
+        "noJVMArgs": false,
+        "notCheckGame": false,
+        "notCheckJVM": false,
+        "showLogs": false,
+        "gameDir": "",
+        "launcherVisibility": 1,
+        "gameDirType": 0,
+        "defaultJavaPath": "",
+        "nativesDir": "",
+        "nativesDirType": 0
+      },
+      "gameDir": ".minecraft",
+      "useRelativePath": true,
+      "selectedMinecraftVersion": "暮光星辰整合"
+    },
+    "Home": {
+      "global": {
+        "usesGlobal": false,
+        "javaArgs": "",
+        "minecraftArgs": "",
+        "maxMemory": "",
+        "permSize": "",
+        "width": 854,
+        "height": 480,
+        "javaDir": "",
+        "precalledCommand": "",
+        "serverIp": "",
+        "java": "",
+        "wrapper": "",
+        "fullscreen": false,
+        "noJVMArgs": false,
+        "notCheckGame": false,
+        "notCheckJVM": false,
+        "showLogs": false,
+        "gameDir": "",
+        "launcherVisibility": 1,
+        "gameDirType": 0,
+        "defaultJavaPath": "",
+        "nativesDir": "",
+        "nativesDirType": 0
+      },
+      "gameDir": "",
+      "useRelativePath": false
+    }
+  },
+  "accounts": [],
+  "fontFamily": "Consolas",
+  "fontSize": 12.0,
+  "logLines": 100,
+  "authlibInjectorServers": [
+    {
+      "url": "https://craft.naitua.cn:11221/api/yggdrasil/",
+      "metadataResponse": "{\"meta\":{\"serverName\":\"Naitu Craft\",\"implementationName\":\"Yggdrasil API for Blessing Skin\",\"implementationVersion\":\"4.7.5\",\"links\":{\"homepage\":\"https:\\/\\/craft.naitua.cn:11221\",\"register\":\"https:\\/\\/craft.naitua.cn:11221\\/auth\\/register\"}},\"skinDomains\":[\"craft.naitua.cn\"],\"signaturePublickey\":\"-----BEGIN PUBLIC KEY-----\\nMIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEAqh0hy\\/dm\\/c7HH442i8k0\\nU7nhawnbbev5b36jIcLojojsro+MOOHVfYBlkh1q+SMarxFqeM95jQDbWOp01nMT\\n3K\\/+RDFD5LvLy2gtQMH+YB20PYFR9eYj7TjyDMP8gxtkvtVHsxQsQMTFyatMIags\\n7EU99JZ184WaqNlGGR3hcfueuwgb+kuUuVqbojDVXmEthfGZ0rBd1lbfC8epawY0\\nou\\/Nx7rjkgI\\/AECtU8QEb76HGJ95ub6VpxMjmJQ7Wf2QGaLsOEPCs\\/6IoLe7onR1\\nJLk7QmLUU7\\/6L3AWu7En1jsrkHSdD\\/uh8WHw7UVwafLKCSTtSJ5I18HlP73C\\/d\\/B\\nEb\\/BQp+7wy5SINl63b6fynYDPNYfpt5S+hICJlyXrmaSATm1t6\\/0F8XyZN9OSK04\\np+DLfZRr711BFsEc85uxpPaRobpUrACjLnHmA2gvs23IP5wWzU1ofnQOLN7WsXQz\\nLpn02Kb4RnqfYNfrJyA9NgK1MCg69fUHFCL8Hz8loBAE0ffxxQ8qGK0rfj3hCERD\\nJlAeGoEJOzLm0plF4bwNHjO+UlrX9uJW+w3f4q5zAch+sd+VLlLQBUGxTV1H+916\\nq5yEqHs0ikoml0lYxG3JOo\\/fyBORNazQh5gQfO8FpNgOUEVgYM4YwGzbM8Bgl\\/0y\\n+DWkP\\/Dn4vWSFsIwYSqpkdECAwEAAQ\u003d\u003d\\n-----END PUBLIC KEY-----\\n\"}",
+      "metadataTimestamp": 1624678460416
+    }
+  ],
+  "updateChannel": "STABLE",
+  "_version": 0,
+  "uiVersion": 0,
+  "preferredLoginType": "authlibInjector"
+}
