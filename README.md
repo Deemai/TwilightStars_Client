@@ -1,7 +1,7 @@
 # 暮光星辰游戏端
 TwilightStars_Client
 
-你可以在[这里](https://github.com/Deemai/TwilightStars_Client/releases)下载到最新的暮光星辰整合包:yum:
+你可以在[这里](https://naitua.cn/mgxc/obtain)下载到最新的暮光星辰整合包:yum:
 
 使用开源的HMCL启动器构建Minecraft-1.16.5 Je游戏端整合包
   - 内置Fabric加载项
